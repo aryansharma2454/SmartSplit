@@ -1,0 +1,6 @@
+{
+  "name": "SplitFin",
+  "description": "Premium FinTech expense-sharing and group finance app with smart settlements and receipt scanning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

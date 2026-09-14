@@ -1,0 +1,29 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Card base -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M32,38 C32,34.7 34.7,32 38,32 L70,32 C73.3,32 76,34.7 76,38 L76,70 C76,73.3 73.3,76 70,76 L38,76 C34.7,76 32,73.3 32,70 Z" />
+    <!-- Emerald accent card stripe -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M32,46 L76,46 L76,58 L32,58 Z" />
+    <!-- Split Arrow Left -->
+    <path
+        android:fillColor="#1E1B4B"
+        android:pathData="M44,52 L50,47 L50,50 L58,50 L58,54 L50,54 L50,57 Z" />
+    <!-- Split Arrow Right -->
+    <path
+        android:fillColor="#047857"
+        android:pathData="M64,52 L58,47 L58,50 L50,50 L50,54 L58,54 L58,57 Z" />
+    <!-- Financial coin / badge -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,66 m-4,0 a4,4 0 1,0 8,0 a4,4 0 1,0 -8,0" />
+    <path
+        android:fillColor="#047857"
+        android:pathData="M54,39 m-3,0 a3,3 0 1,0 6,0 a3,3 0 1,0 -6,0" />
+</vector>
